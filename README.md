@@ -1,6 +1,8 @@
 # Fundamentos-do-JavaScript-Tipos-variaveis-e-funcoes
 Fundamentos do JavaScript Tipos, variáveis e funcoes
 
+<img src="https://github.com/marcospatton/Fundamentos-do-JavaScript-Tipos-vari-veis-e-fun-es/blob/main/logoJavaScript.png"></a>
+<br><br>
 
 
 O que aprendemos:
